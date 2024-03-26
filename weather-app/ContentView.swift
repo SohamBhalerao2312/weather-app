@@ -38,6 +38,7 @@ struct ContentView: View {
                     WeatherDayView(day_of_week: "THU", img_name: "cloud.moon.rain.fill", temperature: 21)
                     WeatherDayView(day_of_week: "FRI", img_name: "cloud.sun.bolt.fill", temperature: 23)
                     WeatherDayView(day_of_week: "SAT", img_name: "cloud.sun.fill", temperature: 26)
+                    WeatherDayView(day_of_week: "SUN", img_name: "sun.max.fill", temperature: 28)
                 }
                 Spacer()
                 Button {
