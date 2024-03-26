@@ -23,13 +23,14 @@ struct ContentView: View {
                         .renderingMode(.original)
                         .aspectRatio(contentMode: .fit)
                         .frame(width:180,height: 180)
+                        
                     
                     Text("35°C")
                         .font(.system(size: 40 , weight: .medium,design: .default))
                         .foregroundColor(.white)
                         .padding(.horizontal, 9)
                 }
-                .padding(.bottom,40)
+                .padding(.bottom,32)
                 Spacer()
                 
                 HStack(spacing: 20){
@@ -52,7 +53,7 @@ struct ContentView: View {
                         .background(Color.blue)
                         .cornerRadius(10)
                 }
-                Spacer()
+                .padding(.bottom,32)
                 
                 
             }
