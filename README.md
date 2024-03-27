@@ -27,5 +27,6 @@ Contributing:
 * Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes. For major changes, please open an issue first to discuss the proposed modifications.
 ## Output
 
-
+<img width="284" alt="Screenshot 2024-03-27 at 09 26 25" src="https://github.com/SohamBhalerao2312/weather-app/assets/116362600/1f172f9f-8876-4f5a-b677-b8dce512fe4a">
+<img width="284" alt="Screenshot 2024-03-26 at 23 33 46" src="https://github.com/SohamBhalerao2312/weather-app/assets/116362600/174d3901-82e9-4a72-8cc5-2cb96978e877">
 
