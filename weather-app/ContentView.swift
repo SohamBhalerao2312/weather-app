@@ -84,7 +84,7 @@ struct Backgroundview: View {
     @Binding var isNight:Bool       //@Binding is used to add some extra functionality to the variable
     
     var body: some View {
-        LinearGradient(gradient: Gradient(colors: [isNight ? .black : .blue , isNight ? .gray : .white  ]), startPoint: .topLeading, endPoint: .bottomTrailing)
+        LinearGradient(gradient: Gradient(colors: [isNight ? .black : .blue , isNight ? .gray : .green  ]), startPoint: .topLeading, endPoint: .bottomTrailing)
             .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
     }
 }
